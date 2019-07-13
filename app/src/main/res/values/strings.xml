@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ALC Challenge</string>
+
+    <string name="andela_url">https://andela.com/alc/</string>
+    <string name="welcome">Welcome to ALC 4.0</string>
+
+    <!-- Buttons -->
+    <string name="about_button">About ALC</string>
+    <string name="profile_button">My Profile</string>
+
+    <!-- Profile -->
+    <string name="name_label">Name:</string>
+    <string name="track_label">Track:</string>
+    <string name="country_label">Country:</string>
+    <string name="email_label">Email:</string>
+    <string name="phone_label">Phone:</string>
+
+    <string name="name">Doyin Faith Kasumu</string>
+    <string name="track">Android</string>
+    <string name="country">Nigeria</string>
+    <string name="email">turn2honey@gmail.com</string>
+    <string name="phone">07061633127</string>
+</resources>
